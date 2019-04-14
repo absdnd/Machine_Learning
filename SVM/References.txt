@@ -1,0 +1,5 @@
+References: 
+
+1. https://stackoverflow.com/questions/42706519/how-to-write-several-constraint-in-cvxpy
+
+2. https://scikit-learn.org/stable/auto_examples/svm/plot_iris.html
